@@ -8,6 +8,11 @@ spring:
   jpa:
     hibernate:
       ddl-auto: update
+<<<<<<< HEAD
     show-sql: true
     database-platform: org.hibernate.dialect.MySQL8Dialect
+=======
+
+    show-sql: true
+>>>>>>> af4e83d7a7a370e9d70fd1b57714d9bbceedcf32
 
